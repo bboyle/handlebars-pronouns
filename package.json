@@ -1,0 +1,34 @@
+{
+  "name": "handlebars-pronouns",
+  "version": "1.0.0-alpha.1",
+  "description": "handlebars helper for English pronouns",
+  "main": "index.html",
+  "engines": {
+    "node": "^4.3.2",
+    "npm": "^3.7.5"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bboyle/handlebars-pronouns.git"
+  },
+  "author": "Queensland Government",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bboyle/handlebars-pronouns/issues"
+  },
+  "homepage": "https://github.com/bboyle/handlebars-pronouns#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^2.6.0",
+    "grunt": "^1.0.0",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^18.0.0"
+  }
+}

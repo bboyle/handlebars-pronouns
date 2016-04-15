@@ -1,0 +1,8 @@
+---
+env:
+  node: true
+  jasmine: true
+globals:
+  Handlebars: true
+rules:
+  strict: [2, global]

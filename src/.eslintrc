@@ -1,0 +1,12 @@
+---
+env:
+  node: false
+  browser: true
+globals:
+  Handlebars: true
+rules:
+  no-mixed-spaces-and-tabs:
+  - 2
+  - smart-tabs
+  no-console:
+  - 1
